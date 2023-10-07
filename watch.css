@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: blue;
+}
+#clock {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(47, 47, 158);
+}
